@@ -26,12 +26,11 @@ body {
 }
 .dropdown-content a {
   display: block;
-  color: #A00F00;
+  color: #0000F0;
   padding: 5px;
   text-decoration: none;
 }
 .dropdown-content a:hover {
-  color: #000FAF;
-  background-color: #FFA000;
-}
+  color: #FFFF00;
+  background-color: #F100FF;
 }
