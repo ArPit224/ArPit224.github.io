@@ -15,7 +15,7 @@ body {
   position: relative;
 }
 .dropdown-content {
-  display: none;
+  display: block;
   position: absolute;
   width: 100%;
   overflow: auto;
@@ -26,12 +26,12 @@ body {
 }
 .dropdown-content a {
   display: block;
-  color: #000F00;
+  color: #A00F00;
   padding: 5px;
   text-decoration: none;
 }
 .dropdown-content a:hover {
-  color: #F00FFF;
-  background-color: #FF00FF;
+  color: #F00F0F;
+  background-color: #FF0000;
 }
 }
