@@ -15,7 +15,7 @@ body {
   position: relative;
 }
 .dropdown-content {
-  display: block;
+  display: none;
   position: absolute;
   width: 100%;
   overflow: auto;
